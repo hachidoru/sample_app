@@ -17,6 +17,7 @@
 
 # Ignore other unneeded files.
 doc/
+public/assets
 *.swp
 *~
 .project
