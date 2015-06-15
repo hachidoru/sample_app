@@ -11,6 +11,7 @@ gem 'bootstrap-will_paginate', '0.0.9'
 
 gem 'mysql2'
 gem 'unicorn'
+gem 'figaro'
 
 group :development, :test do
   gem 'rspec-rails', '2.13.1'
